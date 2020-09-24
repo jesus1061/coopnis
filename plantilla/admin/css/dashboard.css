@@ -1,0 +1,18 @@
+body{padding: 0px; margin: 0px; overflow-x: hidden;}
+.container{width: 100%; display: table;}
+header{width: 100%;margin: auto;display: table;background-color: rgb(91,91,95);}
+.title{width: 20%;float: left; padding: 13px;text-align: center;color: white;}
+.logo{width: 50%;text-align: center;margin: auto;}
+.img-logo{width: 80%;}
+.contenedor-modulos{width: 100%; margin: auto;  display: table;}
+.cajon-modulos{width: 90%;margin: auto;}
+.modulo{width: 100%; margin: auto;display: table; padding-top:10px;}
+.modulo-titulo{width: 100%; margin: auto;text-align: center;background-color: rgb(0,135,202); color: white;padding-top: 5px; padding-bottom:  5px;font-weight: 900}
+.iconos{width: 100%;margin: auto;}
+.ico{width: 33.333333%; float: left;  box-sizing: border-box;padding: 10px;background-color: white; }
+.imagen{width: 50%;margin: auto;text-align: center;}
+.img-ico{width: 60%;cursor: pointer;}
+#profa{background-color: rgb(241,207,0);}
+#ventas{background-color: rgb(178,12,20);}
+#trasnportistas{background-color: green;}
+#clientes{background-color: gray;}

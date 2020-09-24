@@ -1,0 +1,35 @@
+body{padding: 0px; margin: 0px; overflow-x: hidden;font-family: helvetica;}
+.container{width: 100%; display: table;}
+.contenedor-datos{width: 95%;margin: auto;display: table; }
+.title-principal{padding-top: 10px; padding-bottom:  10px; width: 100%;margin: auto;float: left;text-align: center;background-color: rgb(178,12,20);color: white; }
+.title-datos-bloque{padding-top: 10px; padding-bottom:  10px; width: 100%;margin: auto;text-align: center;border:solid 0.2px gray;color: white;background-color: rgb(0,135,202);}
+.datos-bloque{width: 100%;margin:auto;display: table; padding-top: 30px; padding-bottom:  30px;  }
+#datos-predio{width: 33.333333%; float: left;}
+#datos-producto{width: 25%; float: left;}
+#datos-fitosanitarios{width: 33.333333%; float: left;}
+#datos-infraestructura{width: 50%; float: left;}
+#datos-infraestructura-extra{width: 100%; float: left;}
+#bloque-una-columna{width: 100%;}
+
+.form-group{width: 33.333333%;float: left; box-sizing: border-box;text-align: center; padding-top: 5px; padding-bottom:  5px;}
+input , select , textarea{width: 90%;  margin: auto; padding-top: 5px; padding-bottom:  5px; }
+textarea{resize: none;}
+#textarea2{width: 100%;}
+label{display: block; }
+
+.label2{text-align:justify;}
+#datos-producto{width: 25%;float:left;}
+
+.agregar{width: 100%;display: table;}
+.button-agregar , .button-agregar-plaga {float: right;width: 10%;}
+.btn-agregar {font-size: 30px; cursor: pointer;float: right;}
+.etiqueta-agregar{}
+.por_seleccionar{background-color: gray; opacity: 0.5}
+.btn-enviar , .btn-crear_producto{width: 10%;background-color: rgb(178,12,20);color: white;border: solid 0.5px rgb(178,12,20); font-weight: 900;border-radius: 35px 35px 35px 35px;
+-moz-border-radius: 35px 35px 35px 35px;
+-webkit-border-radius: 35px 35px 35px 35px;
+border: 0px solid #000000;padding: 10px; cursor: pointer;}
+.oculto{background-color: gray; opacity: 0.5;}
+#dos-columnas{width: 50%;float: left;}
+
+

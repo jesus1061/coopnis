@@ -1,0 +1,10 @@
+.campos-tabla{width: 16.666666%;float: left; border: solid 0.1px gray; box-sizing: border-box;text-align: center;padding-top: 5px; padding-bottom: 5px;font-size: 18px;}
+
+.fa-list{color: green; cursor:pointer}
+.modal-tabla-productos{display:none;width: 60%; margin: auto;-webkit-box-shadow: -1px 2px 12px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 2px 12px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 2px 12px 0px rgba(0,0,0,0.75); position: fixed;top: 22.5%; left: 20%; background-color: white;}
+.cerrar-modal{width: 95%;margin: auto;display: table;text-align: center; padding-top: 5px; padding-bottom: 5px;}
+.fa-close{color: red;float: right; font-size: 25px; cursor: pointer;}
+#foto-info-producto{width: 30%;}
+
